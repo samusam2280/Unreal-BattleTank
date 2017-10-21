@@ -1,2 +1,3 @@
 # Unreal-BattleTank
-Inizio apprendimento videogame battaglia di carri armati. AI, terreno e controlli avanzati
+Inizio apprendimento videogame battaglia di carri armati. AI, terreno e controlli avanzati.
+1-Configurazione github per il progetto
